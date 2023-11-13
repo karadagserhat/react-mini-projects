@@ -2,7 +2,6 @@ import { useFetchProjects } from './fetchProjects';
 import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from 'react-icons/fa';
 import { TbWorldWww } from 'react-icons/tb';
 import Loading from './Loading';
-import quizImg from './assets/quiz.png';
 
 const Projects = () => {
   const { loading, projects } = useFetchProjects();
