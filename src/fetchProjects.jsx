@@ -23,7 +23,7 @@ export const useFetchProjects = () => {
       // });
       const p = projectsData.map((item) => {
         const { title, url, image, githubUrl, id } = item;
-        return { title, url, id, image, githubUrl, id };
+        return { title, url, image, githubUrl, id };
       });
       setProjects(p);
       setLoading(false);

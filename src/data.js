@@ -4,7 +4,7 @@ export const projectsData = [
     title: 'Quiz App',
     url: 'https://quiz-app-react-mini-project.netlify.app/',
     githubUrl: 'https://github.com/karadagserhat/quiz-app-react-mini-project',
-    image: './assets/quiz.png',
+    image: './src/assets/quiz.png',
   },
   {
     id: '2',
@@ -12,7 +12,7 @@ export const projectsData = [
     url: 'https://calculator-app-react-mini-project.netlify.app/',
     githubUrl:
       'https://github.com/karadagserhat/calculator-app-react-mini-project',
-    image: './assets/calculator.png',
+    image: './src/assets/calculator.png',
   },
   {
     id: '3',
@@ -20,7 +20,7 @@ export const projectsData = [
     url: 'https://color-generator-react-mini-project.netlify.app/',
     githubUrl:
       'https://github.com/karadagserhat/color-generator-react-mini-project',
-    image: './assets/color.png',
+    image: './src/assets/color.png',
   },
   {
     id: '4',
@@ -28,7 +28,7 @@ export const projectsData = [
     url: 'https://weather-app-react-mini-project.netlify.app/',
     githubUrl:
       'https://github.com/karadagserhat/weather-app-react-mini-project',
-    image: './assets/weather.png',
+    image: './src/assets/weather.png',
   },
   {
     id: '5',
@@ -36,6 +36,6 @@ export const projectsData = [
     url: 'https://task-list-react-mini-project.netlify.app/',
     githubUrl:
       'https://github.com/karadagserhat/task-list-app-react-mini-project',
-    image: './assets/task.png',
+    image: './src/assets/task.png',
   },
 ];

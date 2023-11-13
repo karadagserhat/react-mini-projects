@@ -28,7 +28,7 @@ const Projects = () => {
               rel="noreferrer"
               className="project"
             >
-              <img src={`src/${image}`} alt={title} className="img" />
+              <img src={image} alt={title} className="img" />
               <div className="card-text">
                 <div className="card-title">{title}</div>
                 <div className="card-link">
