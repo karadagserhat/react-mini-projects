@@ -25,9 +25,8 @@ export const projectsData = [
   {
     id: '4',
     title: 'Weather App',
-    url: 'https://weather-app-react-mini-project.netlify.app/',
-    githubUrl:
-      'https://github.com/karadagserhat/weather-app-react-mini-project',
+    url: 'https://weather-app-react-mini.netlify.app/',
+    githubUrl: 'https://github.com/karadagserhat/weather-app-react',
     image: 'weather.png',
   },
   {
