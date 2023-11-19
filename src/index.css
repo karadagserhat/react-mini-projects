@@ -268,7 +268,7 @@ ul {
 }
 
 .title-underline {
-  background: var(--primary-700);
+  background: var(--primary-800);
   width: 12rem;
   height: 0.25rem;
   margin: 0 auto;
