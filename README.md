@@ -1,1 +1,1 @@
-https://react-projects-mini.netlify.app/
+https://react-projects-mini.vercel.app/
